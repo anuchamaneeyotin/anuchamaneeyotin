@@ -6,3 +6,8 @@ Expert in X++ C#, .NET, and T-SQL with database analysis and design.
 Skilled in developing business plans, requirements specifications, user documentation, and architectural systems research. 
 Strong written and verbal communications. Interested in a challenging technical track career in an application development environment
 
+Skills
+
+C#, Python, SQL, Node JS, X++ 
+
+
